@@ -1,0 +1,6 @@
+{
+  "name": "Página de Gracias - De Cero a la Viralización",
+  "description": "Página de agradecimiento y confirmación de compra para la guía De Cero a la Viralización.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
